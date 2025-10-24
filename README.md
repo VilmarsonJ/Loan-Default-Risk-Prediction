@@ -119,3 +119,57 @@ Cette information est essentielle pour les institutions financières, y compris 
 - **Identifier les risques globaux du portefeuille**,  
 - **Prioriser les actions de suivi et de prévention**,  
 - **Allouer efficacement les ressources pour gérer les défauts potentiels**.
+
+
+
+
+ ## **V -  Modeling (Modélisation) and Evaluation**
+Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
+
+### **1️. Logistic Regression (Baseline)**
+### ***2 Optimized Logistic Regression***
+#### ***3 Optimized Random Forest***
+
+## **Remarks and Models comparason**
+
+Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
+
+| Modèle | Accuracy | Precision | Recall | F1-score | AUC |
+|:-------|:---------:|:----------:|:--------:|:----------:|:----:|
+| Régression Logistique Optimisée (identique à la baseline) | 0.69 | 0.23 | 0.70 | 0.34 | 0.76 |
+| Random Forest Optimisé | 0.73 | 0.25 | 0.63 | 0.35 | 0.75 |
+
+- Le **Random Forest Optimisé** présente la meilleure précision globale et un équilibre correct entre rappel et F1-score. Il est particulièrement utile pour identifier les clients à risque et limiter les pertes potentielles dans le portefeuille de prêts d’une banque haïtienne.  
+- La **Régression Logistique Optimisée** n’améliore pas la baseline (c’est exactement le même modèle), mais elle reste **interprétable et rapide à déployer**, idéale pour les environnements où la transparence des décisions est cruciale, comme dans les banques ou coopératives de microfinance à Port-au-Prince ou Jacmel.  
+- Comme les performances sont proches, nous avons choisi de **sauvegarder les deux modèles** pour garantir la **reproductibilité et la flexibilité future**.  
+  - **Régression Logistique :** `../Models/logit_optimized_20251023_1225.joblib` 
+  - **Random Forest :** `../Models/rf_optimized_20251023_1225.joblib`  
+- Cela permet à toute institution souhaitant reproduire nos analyses ou tester le modèle sur de nouvelles données de **choisir le modèle le plus adapté à leur contexte opérationnel**.
+
+
+## Business Recommendations
+---
+
+## Conclusion
+---
+
+**Key findings include:**
+
+
+## Next Steps
+---
+​
+
+## Full Analysis & Contact
+---
+Explore the complete analytical workflow in the [Jupyter Notebook](./churn_index.ipynb) or review the [presentation slides](./ChurnInsight_Presentation.pdf) for a high-level summary key findings and actionable recommendations.
+
+For professional inquiries, collaboration opportunities, or discussions about the methodology and insights, reach out to:
+
+**Vilmarson JULES & Rodolphe CHARLES**  
+Data Scientists 
+📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
+![Vilmarson JULES – Data Science & AI Student](![photo](../Images/image26.jpg))
+
+## Repository Structure
+
