@@ -1,5 +1,6 @@
 # **Akademi Education - Data Science & IA - Cohorte (2025)**
 - ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
+
 ---
 
 # **Prédiction du Risque de Défaut de Prêt à l’aide du Machine Learning**
@@ -214,16 +215,13 @@ Pour réduire le risque de défaut de paiement et optimiser les décisions de cr
 
 ## **Analyse complète & Contact**
 
-Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebooks/Loan_Default_Prediction.ipynb) ou consultez les [slides de présentation](./Notebooks/Loan_Default_Presentation.pdf) pour un résumé clair des principaux résultats et recommandations.
+Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebooks) ou consultez les [slides de présentation](Loan_Presentation.pdf) pour un résumé clair des principaux résultats et recommandations.
 
 Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
 
 **Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
 **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
 ![Vilmarson JULES – Data Science & AI Student](../Images/image26.jpg)
-
-Explorez le workflow analytique dans le [Jupyter Notebook](./Notebooks/Loan_Default_Prediction.ipynb) ou consultez les [slides de présentation](./Notebooks/Loan_Default_Presentation.pdf) pour un résumé des résultats et recommandations.  
-
 
 ---
 
