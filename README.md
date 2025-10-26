@@ -176,11 +176,11 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 ---
 Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :
 
-### 1️ Prioriser les emprunteurs à risque élevé
-- **Identification précoce du risque**  
-- **Allocation efficace des ressources.**
+### 1️ Renforcer la Gestion du Risque Client
+- **IIdentifier les emprunteurs à haut risque dès la demande**  
+- **Mettre en place un suivi différencié **
 
-### 2️ Optimiser les décisions de crédit
+### 2️ Optimiser les Décisions de Crédit et la Rentabilité
 - **Décisions basées sur les données**  
 - **Gestion stratégique du portefeuille**  
 ---
