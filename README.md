@@ -231,7 +231,9 @@ Explorez le workflow analytique dans le [Jupyter Notebook](./Notebooks/Loan_Defa
 
 ## **Structure du Repository**
 
-Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :
+Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :    
+
+
 Loan-Default-Risk-Prediction/
 ├── Dashboard/ # Application Streamlit pour visualiser le risque de défaut
 │ ├── app.py # Script principal de l’application
