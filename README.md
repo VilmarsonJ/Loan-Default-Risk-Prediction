@@ -246,18 +246,8 @@ Loan-Default-Risk-Prediction/
 │ └── preprocessor_final.pkl
 ├── Notebooks/
 ├── README.md
+└── Loan_Presentation.pdf
 ```
-```
-ds-3-telecom-churn-prediction/
-│
-├── Data/
-├── Images/
-├── README.md
-├── tweets_index.ipynb
-└── TweetsInsight_Presentation.pdf
-```
-
-
 
 
 > Cette structure garantit une **navigation claire**, permet de **reproduire l’analyse facilement** et de **déployer le modèle en production**.
