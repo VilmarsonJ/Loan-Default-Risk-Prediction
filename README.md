@@ -135,7 +135,8 @@ De ce fait, nous avons suivre les etapes suivant :
 
 ## **V - Evaluation des modeles**
 
-### **Indicateurs de performance*
+### ***Indicateurs de performance***
+
 
 Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
 
