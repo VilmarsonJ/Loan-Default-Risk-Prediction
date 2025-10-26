@@ -56,12 +56,12 @@ Nous avons adopté une approche de data science orientée “Predictive Analytic
 - **Environment & version control :** Git, GitHub, Jupyter Notebook  
 
 ***Nous avons poursuivi ces etapes qui ci-dessous pour realiser cette etude :***
-### I – Data Understanding
-### II – Data Cleaning
-### III – Exploratory Data Analysis (EDA)
-### IV – Data Preprocessing & Feature Engineering
-### V – Modeling
-### VII – Insights & Interpretation
+- Data Understanding
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing & Feature Engineering
+- Modeling
+- Insights & Interpretation
 
 
 ## **Comprenension du Business**
@@ -86,7 +86,7 @@ Cette étude se concentre sur le contexte des ***services bancaires et financier
 >La **motivation** de ce projet est de montrer comment la **data science peut transformer les pratiques de prêt traditionnelles**, améliorer la qualité des décisions de crédit et apporter une **valeur business tangible** aux institutions financières, régulateurs et prêteurs.
 
 
-## **Comprehension des données**
+### **Comprehension des données**
 ---
 
 Le jeu de données utilisé dans ce projet provient du **[Loan Default Prediction Challenge](https://www.kaggle.com/datasets/nikhil1e9/loan-default?)** sur Kaggle, basé sur un cas réel de prédiction de défaut de crédit.
@@ -94,7 +94,7 @@ Le jeu de données utilisé dans ce projet provient du **[Loan Default Predictio
 Il contient plus de 255 000 prêts individuels, chacun représentant un emprunteur unique et ses caractéristiques financières, sociales et comportementales.
 
 - Variables financieres : revenu, Ratio dette/Revenu, Cote de credit
-- Variables relatives au prêts : Montant du prêts, taux d'interet, duree du prêts, objet du pret
+- Variables relatives au prêts : Montant du prêts, taux d'interet, duree du prêts, objet du  prêts
 - variable cible : Defaut de paiment
 - Variables Socio-demographiques : Age, Niveau d'education, Statut matrimonial, Type d'emploi
 
@@ -150,7 +150,7 @@ Après avoir construit et évalué nos modèles principaux , **Régression Logis
 | Random Forest Optimisé | 0.73 | 0.25 | 0.63 | 0.35 | 0.75 |
 
 
-## **Sélection et Sauvegarde du Modèle**
+- ### **Sélection et Sauvegarde du Modèle**
 
 Après avoir évalué tous les modèles, nous avons sélectionné le **Random Forest optimisé** pour sa **meilleure performance globale** (AUC et métriques clés).  
 
@@ -160,7 +160,7 @@ Après avoir évalué tous les modèles, nous avons sélectionné le **Random Fo
 
 > Cette approche garantit que le modèle peut être reproduit et appliqué directement dans un contexte opérationnel.
 
-## **Déploiement du Modèle (Next Steps)**
+- ### **Déploiement du Modèle (Next Steps)**
 
 Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré le **déploiement avec Streamlit**, afin de créer une **interface web interactive** permettant :  
 - La saisie de nouvelles données clients  
@@ -170,10 +170,8 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 
 > Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
 
-## **Recommandations Business**
-
+## **Recommandations d'affaires*
 ---
-
 Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :
 
 ### 1️ Prioriser les emprunteurs à risque élevé
@@ -193,7 +191,7 @@ Pour réduire le risque de défaut de paiement et optimiser les décisions de cr
 
 
 ## **Prochaines Étapes**
-
+---
 - **Surveillance continue du modèle :**  
   Suivi des performances sur de nouvelles données et détection des changements dans les tendances de défaut.
 
@@ -242,8 +240,7 @@ Loan-Default-Risk-Prediction/
 │ ├── model_final.joblib
 │ └── preprocessor_final.pkl
 ├── Notebooks/
-├── README.md #
-## Repository Structure
+├── README.md
 
 > Cette structure garantit une **navigation claire**, permet de **reproduire l’analyse facilement** et de **déployer le modèle en production**.
 
