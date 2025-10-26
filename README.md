@@ -233,7 +233,7 @@ Explorez le workflow analytique dans le [Jupyter Notebook](./Notebooks/Loan_Defa
 
 Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :    
 
-
+```
 Loan-Default-Risk-Prediction/
 ├── Dashboard/ # Application Streamlit pour visualiser le risque de défaut
 │ ├── app.py # Script principal de l’application
@@ -246,6 +246,19 @@ Loan-Default-Risk-Prediction/
 │ └── preprocessor_final.pkl
 ├── Notebooks/
 ├── README.md
+```
+```
+ds-3-telecom-churn-prediction/
+│
+├── Data/
+├── Images/
+├── README.md
+├── tweets_index.ipynb
+└── TweetsInsight_Presentation.pdf
+```
+
+
+
 
 > Cette structure garantit une **navigation claire**, permet de **reproduire l’analyse facilement** et de **déployer le modèle en production**.
 
