@@ -235,12 +235,12 @@ Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :
 
 ```
 Loan-Default-Risk-Prediction/
-├── Dashboard/ # Application Streamlit pour visualiser le risque de défaut
-│ ├── app.py # Script principal de l’application
+├── Dashboard/
+│ ├── app.py
 ├── Data/ 
-│ ├── raw/ # Données brutes importées
-│ └── processed/ # Données nettoyées
-├── Images/ # Graphiques et figures utilisés
+│ ├── raw/
+│ └── processed/
+├── Images/
 ├── Models/
 │ ├── model_final.joblib
 │ └── preprocessor_final.pkl
