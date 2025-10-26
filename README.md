@@ -18,7 +18,7 @@
 ## **Brève Description**
 ---
 
-![photo](../Images/image19.jpg)
+![photo](Images/image19.jpg)
 
 Les défauts de remboursement constituent un **défi majeur pour les banques**, affectant **la rentabilité**, **la stabilité financière** et **l’accès au crédit**. Évaluer efficacement quels candidats sont susceptibles de faire défaut est essentiel pour **réduire les risques** et **prendre des décisions de prêt éclairées**. Cette étude utilise des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts. 
 
@@ -34,7 +34,7 @@ Les insights issus de cette analyse contribuent à **réduire les prêts non per
 
 ## ** (Problématique du Crédit)**
 ---
-![photo](../Images/image04.jpeg)
+![photo](Images/image04.jpeg)
 
 Le défaut de remboursement des prêts reste l’un des défis les plus critiques pour les institutions financières dans le monde. Lorsqu’un emprunteur ne rembourse pas son prêt, les banques subissent des **pertes financières directes**, et peuvent faire face à des **risques de liquidité**.  
 
@@ -117,7 +117,7 @@ Environ 88,4 % des emprunteurs remboursent leurs prêts à temps, tandis que 11,
 Bien que minoritaire, cette proportion représente un risque financier significatif nécessitant une analyse prédictive approfondie.
 
 
-![photo](../Images/defautpret.png)
+![photo](Images/defautpret.png)
 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
@@ -143,9 +143,9 @@ De ce fait, nous avons suivre les etapes suivant :
 
 Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
 
-![photo](../Images/confusion_matrices_comparison.png)
+![photo](Images/confusion_matrices_comparison.png)
 
-![photo](../Images/roc_combine_models.png)
+![photo](Images/roc_combine_models.png)
 
 | Modèle | Accuracy | Precision | Recall | F1-score | AUC |
 |:-------|:---------:|:----------:|:--------:|:----------:|:----:|
@@ -220,7 +220,9 @@ Pour toute demande professionnelle, collaboration ou discussion sur la méthodol
 
 **Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
 **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
-![Vilmarson JULES – Data Science & AI Student](../Images/image26.jpg)
+![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
+
+
 
 ---
 
