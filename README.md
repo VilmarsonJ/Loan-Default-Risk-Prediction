@@ -142,14 +142,15 @@ De ce fait, nous avons suivre les etapes suivant :
 Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
 
 ![photo](Images/confusion_matrices_comparison.png)
+#### **Indicateurs de performance*
 
-![photo](Images/roc_combine_models.png)
 
 | Modèle | Accuracy | Precision | Recall | F1-score | AUC |
 |:-------|:---------:|:----------:|:--------:|:----------:|:----:|
 | Régression Logistique Optimisée (identique à la baseline) | 0.69 | 0.23 | 0.70 | 0.34 | 0.76 |
 | Random Forest Optimisé | 0.73 | 0.25 | 0.63 | 0.35 | 0.75 |
 
+![photo](Images/roc_combine_models.png)
 
 - ### **Sélection et Sauvegarde du Modèle**
 
