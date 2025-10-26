@@ -1,7 +1,6 @@
 # **Akademi Education - Data Science & IA - Cohorte (2025)**
 - ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
 
----
 
 # **Prédiction du Risque de Défaut de Prêt à l’aide du Machine Learning**
 ---
@@ -114,8 +113,9 @@ Cette étape nous a permi de **comprendre en profondeur :
 ![photo](Images/defautpret.png)
 
 Environ 88,4 % des emprunteurs remboursent leurs prêts à temps, tandis que 11,6 % font défaut.
-Bien que minoritaire, cette proportion représente un risque financier significatif nécessitant une analyse prédictive approfondie.
+Bien que minoritaire, cette proportion représente un risque financier significatif pour les institutions financiereres. Identifier proactivement ces emprunteurs peut prévenir des pertes et stabiliser le portefeuille de prêts.
 
+es emprunteurs **indépendants ou à temps partiel** présentent un taux de défaut légèrement supérieur à celui des **employés à temps plein**, indiquant que la **stabilité des revenus** est un facteur clé pour le remboursement. Les banques pourraient en tenir compte lors de l’approbation des prêts ou pour ajuster les taux d’intérêt selon le profil de risque.
 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
