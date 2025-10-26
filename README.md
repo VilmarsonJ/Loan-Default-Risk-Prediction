@@ -1,11 +1,16 @@
+# **Akademi Education - Data Science & IA - Cohorte (2025)**
+- ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
+---
+
 # **Prédiction du Risque de Défaut de Prêt à l’aide du Machine Learning**
 ---
 ### ***Une étude basée sur les données pour évaluer le risque de crédit et optimiser les décisions de financement***
 
+
 ![photo](../Images/image12.webp)
 
 ---
-> ### **Prepared and presented by Data Scientists :**
+> ### **Preparé et presenté  par:**
 > #### **Vilmarson JULES** & **Rodolphe CHARLES**  
 >**LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 > #### **Akademi Education – Octorbre 2025**
@@ -66,8 +71,6 @@ Nous avons adopté une approche de data science orientée “Predictive Analytic
 
 ## **Comprenension du Business**
 ---
-
-![photo](../Images/image20.jpg)
 
 Les défauts de paiement représentent un défi majeur pour les institutions financières dans le mondes, en particulier celles des haitiens, impactant la **rentabilité, le risque de crédit et la stabilité financière**. 
 Cette étude se concentre sur le contexte des ***services bancaires et financiers***, avec des applications dans **l’évaluation du risque de crédit, la stratégie de prêt et la conformité réglementaire dans le monde, en particulier en Haiti**.
