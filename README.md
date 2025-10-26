@@ -7,8 +7,7 @@
 ---
 ### ***Une étude basée sur les données pour évaluer le risque de crédit et optimiser les décisions de financement***
 
-
-![photo](../Images/image12.webp)
+![photo](Images/image12.webp)
 
 ---
 > ### **Preparé et presenté  par:**
