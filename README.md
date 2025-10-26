@@ -17,8 +17,6 @@
 
 Les défauts de remboursement constituent un **défi majeur pour les banques**, affectant **la rentabilité**, **la stabilité financière** et **l’accès au crédit**. Évaluer efficacement quels candidats sont susceptibles de faire défaut est essentiel pour **réduire les risques** et **prendre des décisions de prêt éclairées**. Cette étude utilise des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts. 
 
-En analysant les **demandes de prêt historiques** et les **profils des clients**, les modèles permettent d’identifier les **emprunteurs potentiellement à haut risque**, offrant ainsi aux institutions financières la possibilité de **prendre des décisions de crédit basées sur les données**, réduire les pertes financières et améliorer la stabilité des portefeuilles**, tant au niveau mondial que dans des contextes comme Haïti, où l’accès au crédit fiable est limité et les défauts peuvent fortement impacter la stabilité financière.
-
 - ### ***Les objectifs principaux de ce projet sont :***
 
 #### **1. Prédire le risque de défaut de prêt** afin de gérer de manière proactive les emprunteurs à haut risque.  
@@ -29,18 +27,13 @@ En analysant les **demandes de prêt historiques** et les **profils des clients*
 Les insights issus de cette analyse contribuent à **réduire les prêts non performants**, **optimiser les stratégies de prêt** et **renforcer la stabilité financière globale**, démontrant l’impact concret de l’analytics prédictive dans le secteur bancaire.
 
 
-## **Business Problem (Problématique du Crédit)**
+## ** (Problématique du Crédit)**
 ---
-
-
 ![photo](../Images/image04.jpeg)
-
 
 Le défaut de remboursement des prêts reste l’un des défis les plus critiques pour les institutions financières dans le monde. Lorsqu’un emprunteur ne rembourse pas son prêt, les banques subissent des **pertes financières directes**, et peuvent faire face à des **risques de liquidité**.  
 
-De plus, un taux élevé de défaut peut **saper la confiance dans le secteur bancaire**, limiter **l’accès au crédit pour d’autres clients**, et compliquer la **conformité réglementaire**. Ce problème est particulièrement marqué dans les marchés émergents, où l’accès au crédit fiable est limité et l’écosystème financier est plus sensible aux défauts.  
-
-**Problème central : Comment les institutions financières peuvent-elles identifier et analyser de manière proactive les emprunteurs présentant un risque élevé de défaut ?**  
+*Problème central : Comment les institutions financières peuvent-elles identifier et analyser de manière proactive les emprunteurs présentant un risque élevé de défaut ?**  
 
 Résoudre ce problème permet aux banques et prêteurs de :  
 - Prendre des **décisions de prêt basées sur les données**.  
@@ -50,22 +43,12 @@ Résoudre ce problème permet aux banques et prêteurs de :
 
 Ce projet aborde cette problématique en exploitant des **données historiques sur les prêts et les clients** avec des **modèles de machine learning**, transformant des patterns complexes en insights exploitables pour **prévenir les défauts avant qu’ils ne surviennent**.
 
-## **The Data**
----
-
-Le jeu de données utilisé dans ce projet provient du **[Loan Default Prediction Challenge](https://www.kaggle.com/datasets/nikhil1e9/loan-default?)** sur Kaggle, basé à l’origine sur l’étude de cas **Loan Default Prediction de Coursera**. Il représente des **données financières réelles de prêts** provenant de banques et d’institutions de crédit accordant des prêts aux particuliers et aux entreprises.  
-
-![photo](../Images/image01.png)
-
-Ces données contiennent des informations essentielles sur les emprunteurs et les prêts, incluant **les revenus, les types d’emploi, les montants de prêt, l’historique de crédit et les résultats de remboursement**, offrant ainsi une vision complète des facteurs influençant le **risque de défaut**.  
 
 
 ## **Methods**
 
 ---
-
-Dans ce projet, nous adoptons une approche de **Predictive Analytics** centrée sur la **classification binaire** pour évaluer le risque de défaut de prêt.
-
+Nous avons adopté une approche de data science orientée “Predictive Analytics”, centrée sur une classification binaire visant à prédire si un emprunteur fera défaut ou non sur son prêt.
 ***Nous nous appuyons sur un écosystème Python robuste pour la data science, incluant :***  
 - **Data manipulation & analysis :** `pandas`, `numpy`  
 - **Visualization :** `matplotlib`, `seaborn`  
@@ -81,23 +64,18 @@ Dans ce projet, nous adoptons une approche de **Predictive Analytics** centrée 
 ### VII – Insights & Interpretation
 
 
-## **Business Understanding**
+## **Comprenension du Business**
 ---
 
 ![photo](../Images/image20.jpg)
 
-
-Les défauts de paiement représentent un défi majeur pour les institutions financières dans le mondes, en particulier celles des haitiens, impactant la **rentabilité, le risque de crédit et la stabilité financière**.
-
-
-Cette étude se concentre sur le contexte des ***services bancaires et financiers***, avec des applications dans **l’évaluation du risque de crédit, la stratégie de prêt et la conformité réglementaire**.
+Les défauts de paiement représentent un défi majeur pour les institutions financières dans le mondes, en particulier celles des haitiens, impactant la **rentabilité, le risque de crédit et la stabilité financière**. 
+Cette étude se concentre sur le contexte des ***services bancaires et financiers***, avec des applications dans **l’évaluation du risque de crédit, la stratégie de prêt et la conformité réglementaire dans le monde, en particulier en Haiti**.
 
 #### ***Le public cible principal comprend :***  
 - **Banques et institutions financières :** optimiser les prêts et réduire les pertes.  
 - **Banques centrales et régulateurs :** surveiller et gérer le risque systémique.  
 - **Fintech et prêteurs :** mettre en œuvre des processus d’approbation de crédit basés sur les données.  
-
-En appliquant des **modèles de machine learning avancés**, cette étude traduit des données complexes en **indicateurs quantitatifs de risque**. Cela permet aux parties prenantes de **détecter proactivement les emprunteurs à haut risque**, de cibler plus efficacement les interventions et de prendre des **décisions stratégiques basées sur des preuves**.
 
 #### ***L’impact concret de ce projet est significatif :***  
 **1.** **Réduire les prêts non performants (NPLs)** et minimiser les pertes financières.  
@@ -107,21 +85,36 @@ En appliquant des **modèles de machine learning avancés**, cette étude tradui
 
 >La **motivation** de ce projet est de montrer comment la **data science peut transformer les pratiques de prêt traditionnelles**, améliorer la qualité des décisions de crédit et apporter une **valeur business tangible** aux institutions financières, régulateurs et prêteurs.
 
-## **III – Exploratory Data Analysis (EDA)**
+
+## **Comprehension des données**
 ---
 
-1. **Performance Globale des Prêts (Diagramme circulaire)**  
-   Le diagramme circulaire montre qu’environ **88% des emprunteurs remboursent leurs prêts à temps**, tandis que **12% font défaut**. Même si la majorité des clients sont fiables, ce **segment minoritaire mais critique** représente un **risque financier important** pour les banques. Identifier proactivement ces emprunteurs peut **prévenir des pertes** et stabiliser le portefeuille de prêts.
-la majorité des prêts (**88,4 %**) sont **remboursés à temps**, ce qui indique que le portefeuille global est relativement sain.  
+Le jeu de données utilisé dans ce projet provient du **[Loan Default Prediction Challenge](https://www.kaggle.com/datasets/nikhil1e9/loan-default?)** sur Kaggle, basé sur un cas réel de prédiction de défaut de crédit.
+. Il représente des **données financières réelles de prêts** provenant de banques et d’institutions de crédit accordant des prêts aux particuliers et aux entreprises. 
+Il contient plus de 255 000 prêts individuels, chacun représentant un emprunteur unique et ses caractéristiques financières, sociales et comportementales.
 
-Cependant, un **segment critique de 11,8 %** correspond à des **prêts à risque (défauts de remboursement)**.  
-Cette information est essentielle pour les institutions financières, y compris en Haïti, afin de :  
-- **Identifier les risques globaux du portefeuille**,  
-- **Prioriser les actions de suivi et de prévention**,  
-- **Allouer efficacement les ressources pour gérer les défauts potentiels**.
-
+- Variables financieres : revenu, Ratio dette/Revenu, Cote de credit
+- Variables relatives au prêts : Montant du prêts, taux d'interet, duree du prêts, objet du pret
+- variable cible : Defaut de paiment
+- Variables Socio-demographiques : Age, Niveau d'education, Statut matrimonial, Type d'emploi
 
 
+## **III – Exploratory Data Analysis (EDA)**
+---
+L’Analyse Exploratoire des Données (EDA) permet de **mettre en évidence les facteurs de risque**, d’identifier **les tendances et anomalies**, et de préparer le terrain pour la **modélisation prédictive**
+Cette étape nous a permi de **comprendre en profondeur :
+
+- la distribution du Type d'emploie, Niveau d'education, Objet du  prêts selon le statut de remboursement.
+- Les corrélations entre variables financières  Revenu, Montant du  prêts, Montant du prêts, cote de credit
+- Les facteurs de risque les plus associés aux défauts
+- Enfin la repartition  du  selon le statut de remboursement
+
+
+Environ 88,4 % des emprunteurs remboursent leurs prêts à temps, tandis que 11,6 % font défaut.
+Bien que minoritaire, cette proportion représente un risque financier significatif nécessitant une analyse prédictive approfondie.
+
+
+![photo](../Images/defautpret.png)
 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
@@ -130,46 +123,127 @@ Nous avons construit et évalue des **modèles de machine learning** pour prédi
 ### ***2 Optimized Logistic Regression***
 #### ***3 Optimized Random Forest***
 
-## **Remarks and Models comparason**
+Pour chacun des trois models ci-dessus, nous avons suivent les demarches suivantes necessaires de l'entrainement des modeles jusqua selectionner le meilleur modele.
+De ce fait, nous avons suivre les etapes suivant :
+
+- Création des pipelines ML( Scaling, encodage)
+- Division des donness(20% pour test)
+- Gestion du déséquilibre des classes
+- Entrainement
+- Optimisation des hyperparamètres via GridSearch
+- Selection du meilleur modele
+
+
+## **V - Evaluation des modeles**
+
+### **Indicateurs de performance*
 
 Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
+
+![photo](../Images/confusion_matrices_comparison.png)
+
+![photo](../Images/roc_combine_models.png)
 
 | Modèle | Accuracy | Precision | Recall | F1-score | AUC |
 |:-------|:---------:|:----------:|:--------:|:----------:|:----:|
 | Régression Logistique Optimisée (identique à la baseline) | 0.69 | 0.23 | 0.70 | 0.34 | 0.76 |
 | Random Forest Optimisé | 0.73 | 0.25 | 0.63 | 0.35 | 0.75 |
 
-- Le **Random Forest Optimisé** présente la meilleure précision globale et un équilibre correct entre rappel et F1-score. Il est particulièrement utile pour identifier les clients à risque et limiter les pertes potentielles dans le portefeuille de prêts d’une banque haïtienne.  
-- La **Régression Logistique Optimisée** n’améliore pas la baseline (c’est exactement le même modèle), mais elle reste **interprétable et rapide à déployer**, idéale pour les environnements où la transparence des décisions est cruciale, comme dans les banques ou coopératives de microfinance à Port-au-Prince ou Jacmel.  
-- Comme les performances sont proches, nous avons choisi de **sauvegarder les deux modèles** pour garantir la **reproductibilité et la flexibilité future**.  
-  - **Régression Logistique :** `../Models/logit_optimized_20251023_1225.joblib` 
-  - **Random Forest :** `../Models/rf_optimized_20251023_1225.joblib`  
-- Cela permet à toute institution souhaitant reproduire nos analyses ou tester le modèle sur de nouvelles données de **choisir le modèle le plus adapté à leur contexte opérationnel**.
 
+## **Sélection et Sauvegarde du Modèle**
 
-## Business Recommendations
+Après avoir évalué tous les modèles, nous avons sélectionné le **Random Forest optimisé** pour sa **meilleure performance globale** (AUC et métriques clés).  
+
+- **Modèle sélectionné :** Random Forest  
+- **Fichier sauvegardé :** `../Models/model_final.joblib`  
+- **Outil utilisé :** `joblib` pour sauvegarder le modèle entraîné, permettant de **recharger et réutiliser rapidement** le modèle sur de nouvelles données.  
+
+> Cette approche garantit que le modèle peut être reproduit et appliqué directement dans un contexte opérationnel.
+
+## **Déploiement du Modèle (Next Steps)**
+
+Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré le **déploiement avec Streamlit**, afin de créer une **interface web interactive** permettant :  
+- La saisie de nouvelles données clients  
+- L’affichage instantané du **score de risque de défaut**  
+- **Statut actuel :** Application Streamlit initialisée et testée localement, avec quelques ajustements à finaliser.  
+- **Prochaine étape :** Optimiser et déployer l’application pour un accès utilisateur fluide (local ou serveur cloud).  
+
+> Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
+
+## **Recommandations Business**
+
 ---
 
-## Conclusion
+Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :
+
+### 1️ Prioriser les emprunteurs à risque élevé
+- **Identification précoce du risque**  
+- **Allocation efficace des ressources.**
+
+### 2️ Optimiser les décisions de crédit
+- **Décisions basées sur les données**  
+- **Gestion stratégique du portefeuille**  
+---
+### 3️ Surveillance continue et intervention précoce
+- **Évaluation continue et Atténuation proactive**
+
+### 4️ Personnaliser les stratégies d’engagement
+- **Segmentation par risque :** Adapter communication et produits selon le profil de l’emprunteur.  
+- **Maximiser la valeur client :** Encourager la fidélité et mettre en place des mesures préventives pour les clients à risque.
+
+
+## **Prochaines Étapes**
+
+- **Surveillance continue du modèle :**  
+  Suivi des performances sur de nouvelles données et détection des changements dans les tendances de défaut.
+
+- **Réentraînement périodique :**  
+  Mise à jour du modèle avec de nouvelles données et exploration de techniques avancées pour améliorer précision et AUC.
+
+- **Intégration opérationnelle :**  
+  Connexion du modèle aux systèmes internes (CRM, outils de gestion du crédit) pour utilisation en temps réel.
+
+- **Évaluation de l’impact business :**  
+  Mesurer la réduction des prêts non performants, pertes financières évitées et efficacité des interventions.
+
+- **Préparer le déploiement complet :**  
+  Finalisation de l’application Streamlit pour permettre aux analystes et managers de **tester le modèle et visualiser le risque en temps réel**, facilitant la prise de décision opérationnelle.
+
 ---
 
-**Key findings include:**
+## **Analyse complète & Contact**
+
+Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebooks/Loan_Default_Prediction.ipynb) ou consultez les [slides de présentation](./Notebooks/Loan_Default_Presentation.pdf) pour un résumé clair des principaux résultats et recommandations.
+
+Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
+
+**Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
+**Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
+![Vilmarson JULES – Data Science & AI Student](../Images/image26.jpg)
+
+Explorez le workflow analytique dans le [Jupyter Notebook](./Notebooks/Loan_Default_Prediction.ipynb) ou consultez les [slides de présentation](./Notebooks/Loan_Default_Presentation.pdf) pour un résumé des résultats et recommandations.  
 
 
-## Next Steps
 ---
-​
 
-## Full Analysis & Contact
----
-Explore the complete analytical workflow in the [Jupyter Notebook](./churn_index.ipynb) or review the [presentation slides](./ChurnInsight_Presentation.pdf) for a high-level summary key findings and actionable recommendations.
+## **Structure du Repository**
 
-For professional inquiries, collaboration opportunities, or discussions about the methodology and insights, reach out to:
+## **Structure du Repository**
 
-**Vilmarson JULES & Rodolphe CHARLES**  
-Data Scientists 
-📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
-![Vilmarson JULES – Data Science & AI Student](![photo](../Images/image26.jpg))
-
+Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :
+Loan-Default-Risk-Prediction/
+├── Dashboard/ # Application Streamlit pour visualiser le risque de défaut
+│ ├── app.py # Script principal de l’application
+├── Data/ 
+│ ├── raw/ # Données brutes importées
+│ └── processed/ # Données nettoyées
+├── Images/ # Graphiques et figures utilisés
+├── Models/
+│ ├── model_final.joblib
+│ └── preprocessor_final.pkl
+├── Notebooks/
+├── README.md #
 ## Repository Structure
+
+> Cette structure garantit une **navigation claire**, permet de **reproduire l’analyse facilement** et de **déployer le modèle en production**.
 
