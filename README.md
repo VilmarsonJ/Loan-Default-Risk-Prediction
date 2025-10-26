@@ -16,9 +16,6 @@
 
 ## **Brève Description**
 ---
-
-![photo](Images/image19.jpg)
-
 Les défauts de remboursement constituent un **défi majeur pour les banques**, affectant **la rentabilité**, **la stabilité financière** et **l’accès au crédit**. Évaluer efficacement quels candidats sont susceptibles de faire défaut est essentiel pour **réduire les risques** et **prendre des décisions de prêt éclairées**. Cette étude utilise des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts. 
 
 - ### ***Les objectifs principaux de ce projet sont :***
