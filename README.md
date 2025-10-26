@@ -23,18 +23,17 @@
 Les défauts de remboursement constituent un **défi majeur pour les banques**, affectant **la rentabilité**, **la stabilité financière** et **l’accès au crédit**. Évaluer efficacement quels candidats sont susceptibles de faire défaut est essentiel pour **réduire les risques** et **prendre des décisions de prêt éclairées**. Cette étude utilise des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts. 
 
 - ### ***Les objectifs principaux de ce projet sont :***
-
-#### **1. Prédire le risque de défaut de prêt** afin de gérer de manière proactive les emprunteurs à haut risque.  
-#### **2. Soutenir les décisions stratégiques de prêt** grâce à des **insights exploitables**.  
-#### **3. Réduire les prêts non performants (NPL)** et améliorer la **stabilité financière globale**.  
-#### **4. Améliorer les processus d’évaluation du crédit** par une analyse **basée sur les données**.
+**1. Prédire le risque de défaut de prêt** afin de gérer de manière proactive les emprunteurs à haut risque.  
+**2. Soutenir les décisions stratégiques de prêt** grâce à des **insights exploitables**.  
+**3. Réduire les prêts non performants (NPL)** et améliorer la **stabilité financière globale**.  
+**4. Améliorer les processus d’évaluation du crédit** par une analyse **basée sur les données**.
 
 Les insights issus de cette analyse contribuent à **réduire les prêts non performants**, **optimiser les stratégies de prêt** et **renforcer la stabilité financière globale**, démontrant l’impact concret de l’analytics prédictive dans le secteur bancaire.
 
 
 ## ** (Problématique du Crédit)**
 ---
-![photo](Images/image04.jpeg)
+![photo](Images/image14.webp)
 
 Le défaut de remboursement des prêts reste l’un des défis les plus critiques pour les institutions financières dans le monde. Lorsqu’un emprunteur ne rembourse pas son prêt, les banques subissent des **pertes financières directes**, et peuvent faire face à des **risques de liquidité**.  
 
@@ -112,12 +111,11 @@ Cette étape nous a permi de **comprendre en profondeur :
 - Les facteurs de risque les plus associés aux défauts
 - Enfin la repartition  du  selon le statut de remboursement
 
+![photo](Images/defautpret.png)
 
 Environ 88,4 % des emprunteurs remboursent leurs prêts à temps, tandis que 11,6 % font défaut.
 Bien que minoritaire, cette proportion représente un risque financier significatif nécessitant une analyse prédictive approfondie.
 
-
-![photo](Images/defautpret.png)
 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
