@@ -222,11 +222,7 @@ Pour toute demande professionnelle, collaboration ou discussion sur la méthodol
 ![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
 
 
-
 ---
-
-## **Structure du Repository**
-
 ## **Structure du Repository**
 
 Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :    
