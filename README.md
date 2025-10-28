@@ -37,9 +37,9 @@ Les insights issus de cette analyse contribuent à **réduire les prêts non per
 ---
 ![photo](Images/image27.jpg)
 
-Le défaut de remboursement des prêts reste l’un des défis les plus critiques pour les institutions financières dans le monde. Lorsqu’un emprunteur ne rembourse pas son prêt, les banques subissent des **pertes financières directes**, et peuvent faire face à des **risques de liquidité**.  
+Les institutions financières font aujourd’hui face à une montée significative du risque de défaut de prêt, conséquence directe de l’instabilité économique et de la diversité croissante des profils d’emprunteurs. Les approches traditionnelles d’évaluation du crédit, souvent fondées sur des critères statiques et linéaires, ne suffisent plus à appréhender la complexité des comportements financiers actuels. Dans ce contexte, il devient essentiel pour ces institutions de recourir à des méthodes analytiques et prédictives capables d’exploiter les données historiques de prêts afin d’identifier de manière précoce les emprunteurs à risque. 
 
-*Problème central : Comment les institutions financières peuvent-elles identifier et analyser de manière proactive les emprunteurs présentant un risque élevé de défaut ?**  
+### **Problème central :**  ***Comment les institutions financières peuvent-elles exploiter les données historiques de prêts pour prévenir les défauts de paiement, optimiser la gestion des risques et améliorer la prise de décision en matière de crédit pour différents profils d’emprunteurs ?***
 
 Résoudre ce problème permet aux banques et prêteurs de :  
 - Prendre des **décisions de prêt basées sur les données**.  
@@ -47,7 +47,7 @@ Résoudre ce problème permet aux banques et prêteurs de :
 - Réduire les **pertes financières** et **stabiliser les portefeuilles de prêts**.  
 - Soutenir les initiatives de **gestion stratégique et réglementaire du risque**.  
 
-Ce projet aborde cette problématique en exploitant des **données historiques sur les prêts et les clients** avec des **modèles de machine learning**, transformant des patterns complexes en insights exploitables pour **prévenir les défauts avant qu’ils ne surviennent**.
+> Ce projet aborde cette problématique en exploitant des **données historiques sur les prêts et les clients** avec des **modèles de machine learning**, transformant des patterns complexes en insights exploitables pour **prévenir les défauts avant qu’ils ne surviennent**.
 
 
 
@@ -210,7 +210,7 @@ Pour réduire le risque de défaut de paiement et optimiser les décisions de cr
 
 ### 1️ Renforcer la Gestion du Risque Client
 - **IIdentifier les emprunteurs à haut risque dès la demande**  
-- **Mettre en place un suivi différencié **
+- **Mettre en place un suivi différencié**
 
 ### 2️ Optimiser les Décisions de Crédit et la Rentabilité
 - **Décisions basées sur les données**  
