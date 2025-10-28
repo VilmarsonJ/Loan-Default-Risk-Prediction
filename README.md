@@ -3,10 +3,10 @@
 
 - ### **Phase 5 :** Capstone Project DE SCIENCE DES DONNÉES
 - ### **Noms des étudiants du groupe :** Vilmarson JULES & Rodolphe Charles  
-- ### **LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
+- ### **LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE  
 - ### **Rythme d’apprentissage :** Autonome  
 - ### **Date de soutenance :** 28 octobre 2025   
-- ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE
 - ### **Lien GitHub du projet :** [Prédiction du Risque de Défaut de Prêt](https://github.com/VilmarsonJ/Loan-Default-Risk-Prediction.git)
 ----
 
