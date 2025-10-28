@@ -9,6 +9,8 @@
 - ### **Rythme d’apprentissage :** Autonome  
 - ### **Date de soutenance :** 28 octobre 2025   
 > - ### **Lien GitHub du projet :** [Prédiction du Risque de Défaut de Prêt](https://github.com/VilmarsonJ/Loan-Default-Risk-Prediction.git)
+---
+
 
 # **Prédiction du Risque de Défaut de Prêt dans les institutions financieres**
 ---
