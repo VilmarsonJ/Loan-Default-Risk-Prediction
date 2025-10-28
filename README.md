@@ -12,7 +12,7 @@
 ---
 
 
-# **Prédiction du Risque de Défaut de Prêt dans les institutions financieres**
+# **Prédiction du Risque de Défaut de Prêt pour les Institutions Financieres**
 ---
 ### ***Une étude basée sur les données pour évaluer le risque de crédit et optimiser les décisions de financement***
 
@@ -203,7 +203,7 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
   2. Maintenir la relation client et la fidélisation.  
   3. Optimiser l’allocation des ressources humaines et financières pour un meilleur ROI.
 
-## **Recommandations d'affaires*
+## **Recommandations d'affaires**
 ---
 Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :
 
@@ -256,7 +256,7 @@ Pour toute demande professionnelle, collaboration ou discussion sur la méthodol
 ---
 ## **Structure du Repository**
 
-Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :    
+***Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :***    
 
 ```
 Loan-Default-Risk-Prediction/
