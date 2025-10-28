@@ -1,4 +1,5 @@
 # **Akademi Education - Data Science & IA - Cohorte (2025)**
+---
 - ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
 
 - ### **Phase 5 :** Capstone Project DE SCIENCE DES DONNÉES
@@ -7,8 +8,7 @@
 - ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE  
 - ### **Rythme d’apprentissage :** Autonome  
 - ### **Date de soutenance :** 28 octobre 2025   
-- ### **Lien GitHub du projet :** [Prédiction du Risque de Défaut de Prêt](https://github.com/VilmarsonJ/Loan-Default-Risk-Prediction.git)
-----
+> - ### **Lien GitHub du projet :** [Prédiction du Risque de Défaut de Prêt](https://github.com/VilmarsonJ/Loan-Default-Risk-Prediction.git)
 
 # **Prédiction du Risque de Défaut de Prêt dans les institutions financieres**
 ---
