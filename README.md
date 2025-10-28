@@ -2,13 +2,12 @@
 - ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
 
 Phase 5: PROJET Final DE SCIENCE DES DONNÉES
-Noms des étudiants du groupe: Vilmarson JULES & Rodolphe Charles
->**LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-Rythme d’apprentissage: Autonome
-Date de soutenance: 28 octobre 2025
+Noms des étudiants du groupe: Vilmarson JULES & Rodolphe Charles  
+>**LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
+Rythme d’apprentissage: Autonome  
+Date de soutenance: 28 octobre 2025   
 - ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE
-Lien de l’article de blog (lien du dépôt GitHub): https://github.com/richefleuriord/Bank_Customer_Churn_Prediction.git
-
+Lien de l’article de blog (lien GitHub du projet): https://github.com/richefleuriord/Bank_Customer_Churn_Prediction.git
 
 ----
 # **Prédiction du Risque de Défaut de Prêt à l’aide du Machine Learning**
