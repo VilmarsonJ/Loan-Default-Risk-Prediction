@@ -119,6 +119,10 @@ Bien que minoritaire, cette proportion représente un risque financier significa
 ![photo](Images/distribution_employmenttype_fr.png)
 Les emprunteurs **indépendants ou à temps partiel** présentent un taux de défaut légèrement supérieur à celui des **employés à temps plein**, indiquant que la **stabilité des revenus** est un facteur clé pour le remboursement. Les banques pourraient en tenir compte lors de l’approbation des prêts ou pour ajuster les taux d’intérêt selon le profil de risque.
 
+
+![photo](Images/distribution_loan_to_income_fr.png)
+
+
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
 
@@ -177,6 +181,9 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 > Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
 
 ## **Resuktats Principaux**
+
+Le projet de prédiction du risque de défaut de paiement fournit des insights exploitables pour les institutions financières souhaitant optimiser leurs décisions de crédit et réduire les pertes liées aux prêts non performants :
+
 - **Risque concentré sur une minorité d’emprunteurs :**  
   Bien que la majorité des clients remboursent leurs prêts à temps, environ **12% présentent un risque de défaut élevé**. Ces clients représentent un **impact financier disproportionné** et doivent être surveillés proactivement.
 
@@ -185,6 +192,12 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 
 - **Insights pour l’allocation des ressources :**  
   Les scores prédictifs peuvent guider les équipes de crédit dans la **priorisation des dossiers critiques**, l’**ajustement des termes de prêt**, et la mise en place de **mesures préventives ciblées** pour réduire le risque global du portefeuille.
+
+- **Impact Institutionnel :**  
+  En combinant surveillance proactive, interventions ciblées et communication adaptée, les institutions financières peuvent :  
+  1. Réduire les pertes liées aux prêts non performants.  
+  2. Maintenir la relation client et la fidélisation.  
+  3. Optimiser l’allocation des ressources humaines et financières pour un meilleur ROI.
 
 ## **Recommandations d'affaires*
 ---
