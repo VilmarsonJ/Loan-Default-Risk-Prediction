@@ -144,6 +144,7 @@ De ce fait, nous avons suivre les etapes suivant :
 
 Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
 
+
 ![photo](Images/confusion_matrices_comparison.png)
 #### **Indicateurs de performance*
 
@@ -176,6 +177,14 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 > Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
 
 ## **Resuktats Principaux**
+- **Risque concentré sur une minorité d’emprunteurs :**  
+  Bien que la majorité des clients remboursent leurs prêts à temps, environ **12% présentent un risque de défaut élevé**. Ces clients représentent un **impact financier disproportionné** et doivent être surveillés proactivement.
+
+- **Performance robuste du modèle Random Forest :**  
+  Le modèle Random Forest Optimisé fournit une **précision élevée et un score AUC solide**, permettant d’identifier les emprunteurs à risque de manière fiable. Il capture efficacement les relations complexes entre caractéristiques financières, démographiques et comportementales des clients.
+
+- **Insights pour l’allocation des ressources :**  
+  Les scores prédictifs peuvent guider les équipes de crédit dans la **priorisation des dossiers critiques**, l’**ajustement des termes de prêt**, et la mise en place de **mesures préventives ciblées** pour réduire le risque global du portefeuille.
 
 ## **Recommandations d'affaires*
 ---
