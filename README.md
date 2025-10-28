@@ -31,9 +31,9 @@ Les défauts de remboursement constituent un **défi majeur pour les banques**, 
 Les insights issus de cette analyse contribuent à **réduire les prêts non performants**, **optimiser les stratégies de prêt** et **renforcer la stabilité financière globale**, démontrant l’impact concret de l’analytics prédictive dans le secteur bancaire.
 
 
-## ** (Problématique du Crédit)**
+## **(Problématique du Crédit)**
 ---
-![photo](Images/image14.webp)
+![photo](Images/image27.jpg)
 
 Le défaut de remboursement des prêts reste l’un des défis les plus critiques pour les institutions financières dans le monde. Lorsqu’un emprunteur ne rembourse pas son prêt, les banques subissent des **pertes financières directes**, et peuvent faire face à des **risques de liquidité**.  
 
@@ -50,8 +50,8 @@ Ce projet aborde cette problématique en exploitant des **données historiques s
 
 
 ## **Methods**
-
 ---
+
 Nous avons adopté une approche de data science orientée “Predictive Analytics”, centrée sur une classification binaire visant à prédire si un emprunteur fera défaut ou non sur son prêt.
 ***Nous nous appuyons sur un écosystème Python robuste pour la data science, incluant :***  
 - **Data manipulation & analysis :** `pandas`, `numpy`  
@@ -119,9 +119,11 @@ Bien que minoritaire, cette proportion représente un risque financier significa
 ![photo](Images/distribution_employmenttype_fr.png)
 Les emprunteurs **indépendants ou à temps partiel** présentent un taux de défaut légèrement supérieur à celui des **employés à temps plein**, indiquant que la **stabilité des revenus** est un facteur clé pour le remboursement. Les banques pourraient en tenir compte lors de l’approbation des prêts ou pour ajuster les taux d’intérêt selon le profil de risque.
 
+L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue un **seuil critique de risque**: les emprunteurs dépassant ce niveau affichent une *probabilité de défaut nettement accrue, tandis que ceux situés **entre 0,5 et 2,5** représentent **près de 70 % du portefeuille** et maintiennent un comportement de remboursement stable.
 
 ![photo](Images/distribution_loan_to_income_fr.png)
 
+Cette information peut orienter les institutions financières vers une **segmentation du risque plus fine, une politique d’octroi optimisée, et une stratégie de tarification différenciée** pour maximiser la **rentabilité tout en maîtrisant le risque de défaut.**
 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
