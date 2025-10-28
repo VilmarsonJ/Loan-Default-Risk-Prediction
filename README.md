@@ -155,7 +155,7 @@ Après avoir construit et évalué nos modèles principaux , **Régression Logis
 
 
 ![photo](Images/confusion_matrices_comparison.png)
-#### **Indicateurs de performance*
+#### ***Indicateurs de performance***
 
 
 | Modèle | Accuracy | Precision | Recall | F1-score | AUC |
