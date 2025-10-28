@@ -106,12 +106,12 @@ Il contient plus de 255 000 prêts individuels, chacun représentant un emprunte
 ## **III – Exploratory Data Analysis (EDA)**
 ---
 L’Analyse Exploratoire des Données (EDA) permet de **mettre en évidence les facteurs de risque**, d’identifier **les tendances et anomalies**, et de préparer le terrain pour la **modélisation prédictive**
-Cette étape nous a permi de **comprendre en profondeur :
+Cette étape nous a permi de comprendre en profondeur :
 
 - la distribution du Type d'emploie, Niveau d'education, Objet du  prêts selon le statut de remboursement.
-- Les corrélations entre variables financières  Revenu, Montant du  prêts, Montant du prêts, cote de credit
-- Les facteurs de risque les plus associés aux défauts
-- Enfin la repartition  du  selon le statut de remboursement
+- Les corrélations entre variables financières  Revenu, Montant du  prêt, cote de credit.
+- Les facteurs de risque les plus associés aux défauts.
+- Enfin la repartition  du  selon le statut de remboursement.
 
 ![photo](Images/defautpret.png)
 
@@ -124,7 +124,7 @@ Les emprunteurs **indépendants ou à temps partiel** présentent un taux de dé
 
 ![photo](Images/distribution_loan_to_income_fr.png)
 
-L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue un **seuil critique de risque**: les emprunteurs dépassant ce niveau affichent une *probabilité de défaut nettement accrue, tandis que ceux situés **entre 0,5 et 2,5** représentent **près de 70 % du portefeuille** et maintiennent un comportement de remboursement stable.
+L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue un **seuil critique de risque**: les emprunteurs dépassant ce niveau affichent une probabilité de défaut nettement accrue, tandis que ceux situés **entre 0,5 et 2,5** représentent **près de 70 % du portefeuille** et maintiennent un comportement de remboursement stable.
 
 > Cette information peut orienter les institutions financières vers une **segmentation du risque plus fine, une politique d’octroi optimisée, et une stratégie de tarification différenciée** pour maximiser la **rentabilité tout en maîtrisant le risque de défaut.**
 
@@ -167,7 +167,7 @@ Après avoir construit et évalué nos modèles principaux , **Régression Logis
 
 - ### **Sélection et Sauvegarde du Modèle**
 
-Après avoir évalué tous les modèles, nous avons sélectionné le **Random Forest optimisé** pour sa **meilleure performance globale** (AUC et métriques clés).  
+**Après avoir évalué tous les modèles, nous avons sélectionné le **Random Forest optimisé** pour sa **meilleure performance globale** (AUC et métriques clés).**  
 
 - **Modèle sélectionné :** Random Forest  
 - **Fichier sauvegardé :** `../Models/model_final.joblib`  
@@ -185,7 +185,7 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 
 > Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
 
-## **Resuktats Principaux**
+## **Principaux Resultats**
 
 Le projet de prédiction du risque de défaut de paiement fournit des insights exploitables pour les institutions financières souhaitant optimiser leurs décisions de crédit et réduire les pertes liées aux prêts non performants :
 
@@ -200,9 +200,9 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 
 - #### **Impact Institutionnel :**  
   En combinant surveillance proactive, interventions ciblées et communication adaptée, les institutions financières peuvent :  
-  1. Réduire les pertes liées aux prêts non performants.  
-  2. Maintenir la relation client et la fidélisation.  
-  3. Optimiser l’allocation des ressources humaines et financières pour un meilleur ROI.
+  **1. Réduire les pertes liées aux prêts non performants.**  
+  **2. Maintenir la relation client et la fidélisation.**  
+  **3. Optimiser l’allocation des ressources humaines et financières pour un meilleur ROI.**
 
 ## **Recommandations d'affaires**
 ---
@@ -221,7 +221,7 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 - **Améliorer la transparence et la confiance**
 
 ### 4️ Exploiter la Data comme Avantage Concurrentiel 
-- **Adopter une approche “data-driven **
+- **Adopter une approche “data-driven**
 - **Créer un écosystème analytique durable**
 
 ## **Prochaines Étapes**
