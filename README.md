@@ -121,11 +121,12 @@ Bien que minoritaire, cette proportion représente un risque financier significa
 ![photo](Images/distribution_employmenttype_fr.png)
 Les emprunteurs **indépendants ou à temps partiel** présentent un taux de défaut légèrement supérieur à celui des **employés à temps plein**, indiquant que la **stabilité des revenus** est un facteur clé pour le remboursement. Les banques pourraient en tenir compte lors de l’approbation des prêts ou pour ajuster les taux d’intérêt selon le profil de risque.
 
-L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue un **seuil critique de risque**: les emprunteurs dépassant ce niveau affichent une *probabilité de défaut nettement accrue, tandis que ceux situés **entre 0,5 et 2,5** représentent **près de 70 % du portefeuille** et maintiennent un comportement de remboursement stable.
 
 ![photo](Images/distribution_loan_to_income_fr.png)
 
-Cette information peut orienter les institutions financières vers une **segmentation du risque plus fine, une politique d’octroi optimisée, et une stratégie de tarification différenciée** pour maximiser la **rentabilité tout en maîtrisant le risque de défaut.**
+L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue un **seuil critique de risque**: les emprunteurs dépassant ce niveau affichent une *probabilité de défaut nettement accrue, tandis que ceux situés **entre 0,5 et 2,5** représentent **près de 70 % du portefeuille** et maintiennent un comportement de remboursement stable.
+
+> Cette information peut orienter les institutions financières vers une **segmentation du risque plus fine, une politique d’octroi optimisée, et une stratégie de tarification différenciée** pour maximiser la **rentabilité tout en maîtrisant le risque de défaut.**
 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
