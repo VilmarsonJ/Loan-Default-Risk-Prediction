@@ -208,19 +208,19 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 ---
 ***Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :***
 
-### 1️ Renforcer la Gestion du Risque Client
+#### 1. Renforcer la Gestion du Risque Client
 - **IIdentifier les emprunteurs à haut risque dès la demande**  
 - **Mettre en place un suivi différencié**
 
-### 2️ Optimiser les Décisions de Crédit et la Rentabilité
+#### 2. Optimiser les Décisions de Crédit et la Rentabilité
 - **Décisions basées sur les données**  
-- **Gestion stratégique du portefeuille**  
----
-### 3️ Développer une Stratégie de Prêt Responsable  
+- **Gestion stratégique du portefeuille**
+
+#### 3. Développer une Stratégie de Prêt Responsable  
 - **Promouvoir l’inclusion financière**
 - **Améliorer la transparence et la confiance**
 
-### 4️ Exploiter la Data comme Avantage Concurrentiel 
+#### 4. Exploiter la Data comme Avantage Concurrentiel 
 - **Adopter une approche “data-driven**
 - **Créer un écosystème analytique durable**
 
@@ -249,8 +249,8 @@ Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebo
 
 Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
 
-> **Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
-> **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
+**Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
+**Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
 ![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
 
 
