@@ -18,7 +18,7 @@
 
 ![photo](Images/image12.webp)
 
-> #### **Akademi Education – Octorbre 2025**
+> #### **Akademi Education – Octobre 2025**
 
 ## **Brève Description**
 ---
