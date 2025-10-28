@@ -41,7 +41,7 @@ Les institutions financières font aujourd’hui face à une montée significati
 
 ### **Problème central :**  ***Comment les institutions financières peuvent-elles exploiter les données historiques de prêts pour prévenir les défauts de paiement, optimiser la gestion des risques et améliorer la prise de décision en matière de crédit pour différents profils d’emprunteurs ?***
 
-Résoudre ce problème permet aux banques et prêteurs de :  
+**Résoudre ce problème permet aux banques et prêteurs de :***  
 - Prendre des **décisions de prêt basées sur les données**.  
 - Concevoir des **interventions ciblées** pour les emprunteurs à risque.  
 - Réduire les **pertes financières** et **stabiliser les portefeuilles de prêts**.  
@@ -87,7 +87,7 @@ Cette étude se concentre sur le contexte des ***services bancaires et financier
 **3.** Permettre des **interventions ciblées** pour les emprunteurs à risque de défaut.  
 **4.** Soutenir les **rapports réglementaires** et renforcer la **stabilité financière globale**.
 
->La **motivation** de ce projet est de montrer comment la **data science peut transformer les pratiques de prêt traditionnelles**, améliorer la qualité des décisions de crédit et apporter une **valeur business tangible** aux institutions financières, régulateurs et prêteurs.
+> La **motivation** de ce projet est de montrer comment la **data science peut transformer les pratiques de prêt traditionnelles**, améliorer la qualité des décisions de crédit et apporter une **valeur business tangible** aux institutions financières, régulateurs et prêteurs.
 
 
 ### **Comprehension des données**
@@ -198,7 +198,7 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 - **Insights pour l’allocation des ressources :**  
   Les scores prédictifs peuvent guider les équipes de crédit dans la **priorisation des dossiers critiques**, l’**ajustement des termes de prêt**, et la mise en place de **mesures préventives ciblées** pour réduire le risque global du portefeuille.
 
-- **Impact Institutionnel :**  
+- #### **Impact Institutionnel :**  
   En combinant surveillance proactive, interventions ciblées et communication adaptée, les institutions financières peuvent :  
   1. Réduire les pertes liées aux prêts non performants.  
   2. Maintenir la relation client et la fidélisation.  
@@ -206,7 +206,7 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 
 ## **Recommandations d'affaires**
 ---
-Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :
+***Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :***
 
 ### 1️ Renforcer la Gestion du Risque Client
 - **IIdentifier les emprunteurs à haut risque dès la demande**  
@@ -216,13 +216,13 @@ Pour réduire le risque de défaut de paiement et optimiser les décisions de cr
 - **Décisions basées sur les données**  
 - **Gestion stratégique du portefeuille**  
 ---
-### 3️ Surveillance continue et intervention précoce
-- **Évaluation continue et Atténuation proactive**
+### 3️ Développer une Stratégie de Prêt Responsable  
+- **Promouvoir l’inclusion financière**
+- **Améliorer la transparence et la confiance**
 
-### 4️ Personnaliser les stratégies d’engagement
-- **Segmentation par risque :** Adapter communication et produits selon le profil de l’emprunteur.  
-- **Maximiser la valeur client :** Encourager la fidélité et mettre en place des mesures préventives pour les clients à risque.
-
+### 4️ Exploiter la Data comme Avantage Concurrentiel 
+- **Adopter une approche “data-driven **
+- **Créer un écosystème analytique durable**
 
 ## **Prochaines Étapes**
 ---
