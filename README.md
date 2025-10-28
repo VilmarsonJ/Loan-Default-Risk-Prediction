@@ -7,10 +7,10 @@
 - ### **Rythme d’apprentissage :** Autonome  
 - ### **Date de soutenance :** 28 octobre 2025   
 - ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE
-- ### **Lien GitHub du projet :** [Prédiction du Risque de Défaut de Prêt]
-
+- ### **Lien GitHub du projet :** [Prédiction du Risque de Défaut de Prêt](https://github.com/VilmarsonJ/Loan-Default-Risk-Prediction.git)
 ----
-# **Prédiction du Risque de Défaut de Prêt à l’aide du Machine Learning**
+# **Prédiction du Risque de Défaut de Prêt dans les institutions financieres**
+
 ---
 ### ***Une étude basée sur les données pour évaluer le risque de crédit et optimiser les décisions de financement***
 
