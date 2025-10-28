@@ -2,7 +2,7 @@
 ---
 - ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
 
-- ### **Phase 5 :** Capstone Project DE SCIENCE DES DONNÉES
+- ### **Phase 5 :** Capstone Project Dr Science Des Données 
 - ### **Noms des étudiants du groupe :** Vilmarson JULES & Rodolphe Charles  
 - ### **LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE  
