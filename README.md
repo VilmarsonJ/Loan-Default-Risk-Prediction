@@ -199,7 +199,7 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
   Les scores prédictifs peuvent guider les équipes de crédit dans la **priorisation des dossiers critiques**, l’**ajustement des termes de prêt**, et la mise en place de **mesures préventives ciblées** pour réduire le risque global du portefeuille.
 
 - #### **Impact Institutionnel :**  
-  En combinant surveillance proactive, interventions ciblées et communication adaptée, les institutions financières peuvent :  
+En combinant surveillance proactive, interventions ciblées et communication adaptée, les institutions financières peuvent :  
   **1. Réduire les pertes liées aux prêts non performants.**  
   **2. Maintenir la relation client et la fidélisation.**  
   **3. Optimiser l’allocation des ressources humaines et financières pour un meilleur ROI.**
@@ -208,21 +208,21 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 ---
 ***Pour réduire le risque de défaut de paiement et optimiser les décisions de crédit, voici les recommandations clés basées sur notre analyse :***
 
-#### 1. Renforcer la Gestion du Risque Client
-- **IIdentifier les emprunteurs à haut risque dès la demande**  
-- **Mettre en place un suivi différencié**
+#### 1. Renforcer la Gestion du Risque Client :
+- Identifier les emprunteurs à haut risque dès la demande  
+- Mettre en place un suivi différencié
 
-#### 2. Optimiser les Décisions de Crédit et la Rentabilité
-- **Décisions basées sur les données**  
-- **Gestion stratégique du portefeuille**
+#### 2. Optimiser les Décisions de Crédit et la Rentabilité :
+- Décisions basées sur les données  
+- Gestion stratégique du portefeuille
 
-#### 3. Développer une Stratégie de Prêt Responsable  
-- **Promouvoir l’inclusion financière**
-- **Améliorer la transparence et la confiance**
+#### 3. Développer une Stratégie de Prêt Responsable : 
+- Promouvoir l’inclusion financière
+- Améliorer la transparence et la confiance
 
 #### 4. Exploiter la Data comme Avantage Concurrentiel 
-- **Adopter une approche “data-driven**
-- **Créer un écosystème analytique durable**
+- Adopter une approche “data-driven
+- Créer un écosystème analytique durable
 
 ## **Prochaines Étapes**
 ---
