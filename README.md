@@ -131,9 +131,9 @@ L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue 
  ## **V -  Modeling (Modélisation) and Evaluation**
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
 
-#### ***1️Logistic Regression (Baseline)***
-#### ***2 Optimized Logistic Regression***
-#### ***3 Optimized Random Forest***
+#### ***1. Logistic Regression (Baseline)***
+#### ***2. Optimized Logistic Regression***
+#### ***3. Optimized Random Forest***
 
 Pour chacun des trois models ci-dessus, nous avons suivent les demarches suivantes necessaires de l'entrainement des modeles jusqua selectionner le meilleur modele.
 De ce fait, nous avons suivre les etapes suivant :
