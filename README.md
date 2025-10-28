@@ -1,17 +1,22 @@
 # **Akademi Education - Data Science & IA - Cohorte (2025)**
 - ### **Instructeurs :**  Wedter Jerome & Geovany Batista Polo Laguerre
 
+Phase 5: PROJET Final DE SCIENCE DES DONNÉES
+Noms des étudiants du groupe: Vilmarson JULES & Rodolphe Charles
+>**LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Rythme d’apprentissage: Autonome
+Date de soutenance: 28 octobre 2025
+- ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE
+Lien de l’article de blog (lien du dépôt GitHub): https://github.com/richefleuriord/Bank_Customer_Churn_Prediction.git
 
+
+----
 # **Prédiction du Risque de Défaut de Prêt à l’aide du Machine Learning**
 ---
 ### ***Une étude basée sur les données pour évaluer le risque de crédit et optimiser les décisions de financement***
 
 ![photo](Images/image12.webp)
 
----
-> ### **Preparé et presenté  par:**
-> #### **Vilmarson JULES** & **Rodolphe CHARLES**  
->**LinkedIn:** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 > #### **Akademi Education – Octorbre 2025**
 
 ## **Brève Description**
@@ -170,6 +175,8 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 - **Prochaine étape :** Optimiser et déployer l’application pour un accès utilisateur fluide (local ou serveur cloud).  
 
 > Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
+
+## **Resuktats Principaux**
 
 ## **Recommandations d'affaires*
 ---
