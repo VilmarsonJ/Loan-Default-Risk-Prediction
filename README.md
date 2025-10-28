@@ -247,7 +247,7 @@ Le projet de prédiction du risque de défaut de paiement fournit des insights e
 
 Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebooks) ou consultez les [slides de présentation](Loan_Presentation.pdf) pour un résumé clair des principaux résultats et recommandations.
 
-Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
+> Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
 
 **Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
 **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
