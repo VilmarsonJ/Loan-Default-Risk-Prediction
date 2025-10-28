@@ -31,7 +31,7 @@ Les défauts de remboursement constituent un **défi majeur pour les banques**, 
 Les insights issus de cette analyse contribuent à **réduire les prêts non performants**, **optimiser les stratégies de prêt** et **renforcer la stabilité financière globale**, démontrant l’impact concret de l’analytics prédictive dans le secteur bancaire.
 
 
-## **(Problématique du Crédit)**
+## **Problématique du Crédit**
 ---
 ![photo](Images/image27.jpg)
 
