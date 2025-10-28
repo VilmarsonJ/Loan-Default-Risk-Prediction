@@ -146,16 +146,17 @@ De ce fait, nous avons suivre les etapes suivant :
 - Selection du meilleur modele
 
 
-## **V - Evaluation des modeles**
-
-### ***Indicateurs de performance***
+## **Evaluation des modeles**
+---
+- ### ***Indicateurs de performance***
 
 
 Après avoir construit et évalué nos modèles principaux , **Régression Logistique Optimisée** et **Random Forest Optimisé** , nous pouvons comparer leurs performances et comprendre leurs rôles spécifiques dans la prédiction du risque de défaut.
 
 
 ![photo](Images/confusion_matrices_comparison.png)
-#### ***Indicateurs de performance***
+
+#### ***Métriques d'évaluation***
 
 
 | Modèle | Accuracy | Precision | Recall | F1-score | AUC |
@@ -186,7 +187,7 @@ Pour rendre le modèle accessible aux utilisateurs finaux, nous avons exploré l
 > Même si le déploiement complet n’est pas encore finalisé, cette étape montre que le modèle est **prêt pour une intégration opérationnelle**, illustrant la capacité à transformer un modèle ML en **outil concret pour la prise de décision**.
 
 ## **Principaux Resultats**
-
+---
 Le projet de prédiction du risque de défaut de paiement fournit des insights exploitables pour les institutions financières souhaitant optimiser leurs décisions de crédit et réduire les pertes liées aux prêts non performants :
 
 - **Risque concentré sur une minorité d’emprunteurs :**  
@@ -241,10 +242,8 @@ En combinant surveillance proactive, interventions ciblées et communication ada
 - **Préparer le déploiement complet :**  
   Finalisation de l’application Streamlit pour permettre aux analystes et managers de **tester le modèle et visualiser le risque en temps réel**, facilitant la prise de décision opérationnelle.
 
----
-
 ## **Analyse complète & Contact**
-
+---
 Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebooks) ou consultez les [slides de présentation](Loan_Presentation.pdf) pour un résumé clair des principaux résultats et recommandations.
 
 Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
@@ -254,8 +253,9 @@ Pour toute demande professionnelle, collaboration ou discussion sur la méthodol
 ![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
 
 
----
+
 ## **Structure du Repository**
+---
 
 ***Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :***    
 
@@ -277,4 +277,4 @@ Loan-Default-Risk-Prediction/
 
 
 > Cette structure garantit une **navigation claire**, permet de **reproduire l’analyse facilement** et de **déployer le modèle en production**.
-
+---
