@@ -39,9 +39,9 @@ Les insights issus de cette analyse contribuent à **réduire les prêts non per
 
 Les institutions financières font aujourd’hui face à une montée significative du risque de défaut de prêt, conséquence directe de l’instabilité économique et de la diversité croissante des profils d’emprunteurs. Les approches traditionnelles d’évaluation du crédit, souvent fondées sur des critères statiques et linéaires, ne suffisent plus à appréhender la complexité des comportements financiers actuels. Dans ce contexte, il devient essentiel pour ces institutions de recourir à des méthodes analytiques et prédictives capables d’exploiter les données historiques de prêts afin d’identifier de manière précoce les emprunteurs à risque. 
 
-### **Problème central :**  ***Comment les institutions financières peuvent-elles exploiter les données historiques de prêts pour prévenir les défauts de paiement, optimiser la gestion des risques et améliorer la prise de décision en matière de crédit pour différents profils d’emprunteurs ?***
+### **Problème central :**  Comment les institutions financières peuvent-elles exploiter les données historiques de prêts pour prévenir les défauts de paiement, optimiser la gestion des risques et améliorer la prise de décision en matière de crédit pour différents profils d’emprunteurs ?
 
-**Résoudre ce problème permet aux banques et prêteurs de :***  
+**Résoudre ce problème permet aux banques et prêteurs de :**  
 - Prendre des **décisions de prêt basées sur les données**.  
 - Concevoir des **interventions ciblées** pour les emprunteurs à risque.  
 - Réduire les **pertes financières** et **stabiliser les portefeuilles de prêts**.  
