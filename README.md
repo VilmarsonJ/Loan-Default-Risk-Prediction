@@ -249,10 +249,9 @@ Explorez l’ensemble du workflow analytique dans le [Jupyter Notebook](./Notebo
 
 Pour toute demande professionnelle, collaboration ou discussion sur la méthodologie et les insights, contactez :
 
-**Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
-**Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
-
-> ![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
+> **Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
+> **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
+![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
 
 
 ---
