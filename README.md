@@ -10,7 +10,8 @@
 ---
 
 
-# **Prédiction du Risque de Défaut de Prêt pour les Institutions Financieres**
+# **Prédiction du Risque de Défaut de Prêt 
+    pour les Institutions Financieres**
 ---
 ### ***Une étude basée sur les données pour évaluer le risque de crédit et optimiser les décisions de financement***
 
