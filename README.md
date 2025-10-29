@@ -252,6 +252,7 @@ Pour toute demande professionnelle, collaboration ou discussion sur la méthodol
 > **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)
 
 ![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
+
 ---
 
 ## **Structure du Repository**
