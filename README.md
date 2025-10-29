@@ -1,8 +1,8 @@
 # **Akademi Education - Data Science & IA - Cohorte (2025)**
 ---
 - ### **Phase 5 :** Capstone Project De Science Des Données 
-- ### **Noms des étudiants du groupe :** Vilmarson JULES & Rodolphe CHARLES  
-- ### **LinkedIn des étudiants :** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ### **Noms des étudiants :** Vilmarson JULES & Rodolphe CHARLES  
+- ### **LinkedIn :** [Vilmarson JULES](https://www.linkedin.com/in/jules-vilmarson-2a68a5294/) | [Rodolphe CHARLES](https://www.linkedin.com/in/rodolphe-charles-81b75924b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ### **Noms des instructeurs :** Wedter JEROME et Geovany Batista Polo LAGUERRE  
 - ### **Rythme d’apprentissage :** Autonome  
 - ### **Date de soutenance :** 28 octobre 2025   
