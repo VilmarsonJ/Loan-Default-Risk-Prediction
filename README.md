@@ -269,6 +269,9 @@ Loan-Default-Risk-Prediction/
 │ ├── model_final.joblib
 │ └── preprocessor_final.pkl
 ├── Notebooks/
+│ ├── 01_business_intro_eda_ipy.nb
+│ ├── 02_process_modeling.ipynb
+│ └── 03_insights_recommendations.ipynb
 ├── README.md
 └── Loan_Presentation.pdf
 ```
