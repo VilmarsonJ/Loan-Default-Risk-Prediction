@@ -103,7 +103,7 @@ Il contient plus de 255 000 prêts individuels, chacun représentant un emprunte
 - Variables Socio-demographiques : Age, Niveau d'education, Statut matrimonial, Type d'emploi
 
 
-## **III – Exploratory Data Analysis (EDA)**
+## **Exploratory Data Analysis (EDA)**
 ---
 L’Analyse Exploratoire des Données (EDA) permet de **mettre en évidence les facteurs de risque**, d’identifier **les tendances et anomalies**, et de préparer le terrain pour la **modélisation prédictive**
 Cette étape nous a permi de comprendre en profondeur :
@@ -128,7 +128,8 @@ L’analyse révèle qu’un **ratio prêt/revenu supérieur à 2,5** constitue 
 
 > Cette information peut orienter les institutions financières vers une **segmentation du risque plus fine, une politique d’octroi optimisée, et une stratégie de tarification différenciée** pour maximiser la **rentabilité tout en maîtrisant le risque de défaut.**
 
- ## **V -  Modeling (Modélisation) and Evaluation**
+ ## **Modélisation**
+ ---
 Nous avons construit et évalue des **modèles de machine learning** pour prédire le risque de défaut de remboursement des prêts.
 
 #### ***1. Logistic Regression (Baseline)***
@@ -227,6 +228,7 @@ En combinant surveillance proactive, interventions ciblées et communication ada
 
 ## **Prochaines Étapes**
 ---
+
 - **Surveillance continue du modèle :**  
   Suivi des performances sur de nouvelles données et détection des changements dans les tendances de défaut.
 
@@ -251,11 +253,9 @@ Pour toute demande professionnelle, collaboration ou discussion sur la méthodol
 > **Vilmarson JULES** – 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
 > **Rodolphe CHARLES** – 📧 [charlesrodolphe67@gmail.com](mailto:charlesrodolphe67@gmail.com)  
 ![Vilmarson JULES – Data Science & AI Student](Images/image26.jpg)
-
-
+---
 
 ## **Structure du Repository**
----
 
 ***Voici l’organisation de notre projet et le rôle de chaque dossier/fichier :***    
 
